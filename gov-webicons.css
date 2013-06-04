@@ -1,0 +1,338 @@
+/* Gov Webicons by Sean Herron http://seanherron.com */
+/* Inspired by FC Webicons by Fairhead Creative http://fairheadcreative.com */
+
+.gov-webicon { display: inline-block; background-size: contain !important; background-repeat:no-repeat !important; background-position:center !important; width: 64px; height: 64px; text-indent: -999em; text-align: left; overflow:auto; margin-bottom: 5px; }
+.gov-webicon.xsmall { width: 32px; height: 32px; }
+.gov-webicon.small { width: 48px; height: 48px; }
+.gov-webicon.large { width: 128px; height: 128px; }
+.gov-webicon.xlarge { width: 256px; height: 256px; }
+
+
+
+/* Air Force (air-force) */
+.no-svg .gov-webicon.air-force {background: url("images/gov-air-force.png");}
+.no-svg .gov-webicon.air-force.xsmall {background: url("images/gov-air-force-xs.png");}
+.no-svg .gov-webicon.air-force.small {background: url("images/gov-air-force-s.png");}
+.no-svg .gov-webicon.air-force.large {background: url("images/gov-air-force-l.png");}
+.no-svg .gov-webicon.air-force.xlarge {background: url("images/gov-air-force-xl.png");}
+.svg .gov-webicon.air-force {background: url("images/gov-air-force.svg");}
+
+/* Archives (archives) */
+.no-svg .gov-webicon.archives {background: url("images/gov-archives.png");}
+.no-svg .gov-webicon.archives.xsmall {background: url("images/gov-archives-xs.png");}
+.no-svg .gov-webicon.archives.small {background: url("images/gov-archives-s.png");}
+.no-svg .gov-webicon.archives.large {background: url("images/gov-archives-l.png");}
+.no-svg .gov-webicon.archives.xlarge {background: url("images/gov-archives-xl.png");}
+.svg .gov-webicon.archives {background: url("images/gov-archives.svg");}
+
+/* Army (army) */
+.no-svg .gov-webicon.army {background: url("images/gov-army.png");}
+.no-svg .gov-webicon.army.xsmall {background: url("images/gov-army-xs.png");}
+.no-svg .gov-webicon.army.small {background: url("images/gov-army-s.png");}
+.no-svg .gov-webicon.army.large {background: url("images/gov-army-l.png");}
+.no-svg .gov-webicon.army.xlarge {background: url("images/gov-army-xl.png");}
+.svg .gov-webicon.army {background: url("images/gov-army.svg");}
+
+/* Centers for Disease Control and Prevention (cdc) */
+.no-svg .gov-webicon.cdc {background: url("images/gov-cdc.png");}
+.no-svg .gov-webicon.cdc.xsmall {background: url("images/gov-cdc-xs.png");}
+.no-svg .gov-webicon.cdc.small {background: url("images/gov-cdc-s.png");}
+.no-svg .gov-webicon.cdc.large {background: url("images/gov-cdc-l.png");}
+.no-svg .gov-webicon.cdc.xlarge {background: url("images/gov-cdc-xl.png");}
+.svg .gov-webicon.cdc {background: url("images/gov-cdc.svg");}
+
+/* Coast Guard (coast-guard) */
+.no-svg .gov-webicon.coast-guard {background: url("images/gov-coast-guard.png");}
+.no-svg .gov-webicon.coast-guard.xsmall {background: url("images/gov-coast-guard-xs.png");}
+.no-svg .gov-webicon.coast-guard.small {background: url("images/gov-coast-guard-s.png");}
+.no-svg .gov-webicon.coast-guard.large {background: url("images/gov-coast-guard-l.png");}
+.no-svg .gov-webicon.coast-guard.xlarge {background: url("images/gov-coast-guard-xl.png");}
+.svg .gov-webicon.coast-guard {background: url("images/gov-coast-guard.svg");}
+
+/* Congress (congress) */
+.no-svg .gov-webicon.congress {background: url("images/gov-congress.png");}
+.no-svg .gov-webicon.congress.xsmall {background: url("images/gov-congress-xs.png");}
+.no-svg .gov-webicon.congress.small {background: url("images/gov-congress-s.png");}
+.no-svg .gov-webicon.congress.large {background: url("images/gov-congress-l.png");}
+.no-svg .gov-webicon.congress.xlarge {background: url("images/gov-congress-xl.png");}
+.svg .gov-webicon.congress {background: url("images/gov-congress.svg");}
+
+/* Department of Homeland Security (dhs) */
+.no-svg .gov-webicon.dhs {background: url("images/gov-dhs.png");}
+.no-svg .gov-webicon.dhs.xsmall {background: url("images/gov-dhs-xs.png");}
+.no-svg .gov-webicon.dhs.small {background: url("images/gov-dhs-s.png");}
+.no-svg .gov-webicon.dhs.large {background: url("images/gov-dhs-l.png");}
+.no-svg .gov-webicon.dhs.xlarge {background: url("images/gov-dhs-xl.png");}
+.svg .gov-webicon.dhs {background: url("images/gov-dhs.svg");}
+
+/* Department of Commerce (doc) */
+.no-svg .gov-webicon.doc {background: url("images/gov-doc.png");}
+.no-svg .gov-webicon.doc.xsmall {background: url("images/gov-doc-xs.png");}
+.no-svg .gov-webicon.doc.small {background: url("images/gov-doc-s.png");}
+.no-svg .gov-webicon.doc.large {background: url("images/gov-doc-l.png");}
+.no-svg .gov-webicon.doc.xlarge {background: url("images/gov-doc-xl.png");}
+.svg .gov-webicon.doc {background: url("images/gov-doc.svg");}
+
+/* Department of Defense (dod) */
+.no-svg .gov-webicon.dod {background: url("images/gov-dod.png");}
+.no-svg .gov-webicon.dod.xsmall {background: url("images/gov-dod-xs.png");}
+.no-svg .gov-webicon.dod.small {background: url("images/gov-dod-s.png");}
+.no-svg .gov-webicon.dod.large {background: url("images/gov-dod-l.png");}
+.no-svg .gov-webicon.dod.xlarge {background: url("images/gov-dod-xl.png");}
+.svg .gov-webicon.dod {background: url("images/gov-dod.svg");}
+
+/* Department of Energy (doe) */
+.no-svg .gov-webicon.doe {background: url("images/gov-doe.png");}
+.no-svg .gov-webicon.doe.xsmall {background: url("images/gov-doe-xs.png");}
+.no-svg .gov-webicon.doe.small {background: url("images/gov-doe-s.png");}
+.no-svg .gov-webicon.doe.large {background: url("images/gov-doe-l.png");}
+.no-svg .gov-webicon.doe.xlarge {background: url("images/gov-doe-xl.png");}
+.svg .gov-webicon.doe {background: url("images/gov-doe.svg");}
+
+/* Department of Justice (doj) */
+.no-svg .gov-webicon.doj {background: url("images/gov-doj.png");}
+.no-svg .gov-webicon.doj.xsmall {background: url("images/gov-doj-xs.png");}
+.no-svg .gov-webicon.doj.small {background: url("images/gov-doj-s.png");}
+.no-svg .gov-webicon.doj.large {background: url("images/gov-doj-l.png");}
+.no-svg .gov-webicon.doj.xlarge {background: url("images/gov-doj-xl.png");}
+.svg .gov-webicon.doj {background: url("images/gov-doj.svg");}
+
+/* Department of Transportation (dot) */
+.no-svg .gov-webicon.dot {background: url("images/gov-dot.png");}
+.no-svg .gov-webicon.dot.xsmall {background: url("images/gov-dot-xs.png");}
+.no-svg .gov-webicon.dot.small {background: url("images/gov-dot-s.png");}
+.no-svg .gov-webicon.dot.large {background: url("images/gov-dot-l.png");}
+.no-svg .gov-webicon.dot.xlarge {background: url("images/gov-dot-xl.png");}
+.svg .gov-webicon.dot {background: url("images/gov-dot.svg");}
+
+/* Environmental Protection Agency (epa) */
+.no-svg .gov-webicon.epa {background: url("images/gov-epa.png");}
+.no-svg .gov-webicon.epa.xsmall {background: url("images/gov-epa-xs.png");}
+.no-svg .gov-webicon.epa.small {background: url("images/gov-epa-s.png");}
+.no-svg .gov-webicon.epa.large {background: url("images/gov-epa-l.png");}
+.no-svg .gov-webicon.epa.xlarge {background: url("images/gov-epa-xl.png");}
+.svg .gov-webicon.epa {background: url("images/gov-epa.svg");}
+
+/* Food and Drug Administration (fda) */
+.no-svg .gov-webicon.fda {background: url("images/gov-fda.png");}
+.no-svg .gov-webicon.fda.xsmall {background: url("images/gov-fda-xs.png");}
+.no-svg .gov-webicon.fda.small {background: url("images/gov-fda-s.png");}
+.no-svg .gov-webicon.fda.large {background: url("images/gov-fda-l.png");}
+.no-svg .gov-webicon.fda.xlarge {background: url("images/gov-fda-xl.png");}
+.svg .gov-webicon.fda {background: url("images/gov-fda.svg");}
+
+/* Federal Emergency Management Agency (fema) */
+.no-svg .gov-webicon.fema {background: url("images/gov-fema.png");}
+.no-svg .gov-webicon.fema.xsmall {background: url("images/gov-fema-xs.png");}
+.no-svg .gov-webicon.fema.small {background: url("images/gov-fema-s.png");}
+.no-svg .gov-webicon.fema.large {background: url("images/gov-fema-l.png");}
+.no-svg .gov-webicon.fema.xlarge {background: url("images/gov-fema-xl.png");}
+.svg .gov-webicon.fema {background: url("images/gov-fema.svg");}
+
+/* Government Accountability Office (gao) */
+.no-svg .gov-webicon.gao {background: url("images/gov-gao.png");}
+.no-svg .gov-webicon.gao.xsmall {background: url("images/gov-gao-xs.png");}
+.no-svg .gov-webicon.gao.small {background: url("images/gov-gao-s.png");}
+.no-svg .gov-webicon.gao.large {background: url("images/gov-gao-l.png");}
+.no-svg .gov-webicon.gao.xlarge {background: url("images/gov-gao-xl.png");}
+.svg .gov-webicon.gao {background: url("images/gov-gao.svg");}
+
+/* General Services Administration (gsa) */
+.no-svg .gov-webicon.gsa {background: url("images/gov-gsa.png");}
+.no-svg .gov-webicon.gsa.xsmall {background: url("images/gov-gsa-xs.png");}
+.no-svg .gov-webicon.gsa.small {background: url("images/gov-gsa-s.png");}
+.no-svg .gov-webicon.gsa.large {background: url("images/gov-gsa-l.png");}
+.no-svg .gov-webicon.gsa.xlarge {background: url("images/gov-gsa-xl.png");}
+.svg .gov-webicon.gsa {background: url("images/gov-gsa.svg");}
+
+/* Health and Human Services (hhs) */
+.no-svg .gov-webicon.hhs {background: url("images/gov-hhs.png");}
+.no-svg .gov-webicon.hhs.xsmall {background: url("images/gov-hhs-xs.png");}
+.no-svg .gov-webicon.hhs.small {background: url("images/gov-hhs-s.png");}
+.no-svg .gov-webicon.hhs.large {background: url("images/gov-hhs-l.png");}
+.no-svg .gov-webicon.hhs.xlarge {background: url("images/gov-hhs-xl.png");}
+.svg .gov-webicon.hhs {background: url("images/gov-hhs.svg");}
+
+/* Housing and Urban Development (hud) */
+.no-svg .gov-webicon.hud {background: url("images/gov-hud.png");}
+.no-svg .gov-webicon.hud.xsmall {background: url("images/gov-hud-xs.png");}
+.no-svg .gov-webicon.hud.small {background: url("images/gov-hud-s.png");}
+.no-svg .gov-webicon.hud.large {background: url("images/gov-hud-l.png");}
+.no-svg .gov-webicon.hud.xlarge {background: url("images/gov-hud-xl.png");}
+.svg .gov-webicon.hud {background: url("images/gov-hud.svg");}
+
+/* Immigration and Customs Enforcement (ice) */
+.no-svg .gov-webicon.ice {background: url("images/gov-ice.png");}
+.no-svg .gov-webicon.ice.xsmall {background: url("images/gov-ice-xs.png");}
+.no-svg .gov-webicon.ice.small {background: url("images/gov-ice-s.png");}
+.no-svg .gov-webicon.ice.large {background: url("images/gov-ice-l.png");}
+.no-svg .gov-webicon.ice.xlarge {background: url("images/gov-ice-xl.png");}
+.svg .gov-webicon.ice {background: url("images/gov-ice.svg");}
+
+/* Department of Interior (interior) */
+.no-svg .gov-webicon.interior {background: url("images/gov-interior.png");}
+.no-svg .gov-webicon.interior.xsmall {background: url("images/gov-interior-xs.png");}
+.no-svg .gov-webicon.interior.small {background: url("images/gov-interior-s.png");}
+.no-svg .gov-webicon.interior.large {background: url("images/gov-interior-l.png");}
+.no-svg .gov-webicon.interior.xlarge {background: url("images/gov-interior-xl.png");}
+.svg .gov-webicon.interior {background: url("images/gov-interior.svg");}
+
+/* Department of Labor (labor) */
+.no-svg .gov-webicon.labor {background: url("images/gov-labor.png");}
+.no-svg .gov-webicon.labor.xsmall {background: url("images/gov-labor-xs.png");}
+.no-svg .gov-webicon.labor.small {background: url("images/gov-labor-s.png");}
+.no-svg .gov-webicon.labor.large {background: url("images/gov-labor-l.png");}
+.no-svg .gov-webicon.labor.xlarge {background: url("images/gov-labor-xl.png");}
+.svg .gov-webicon.labor {background: url("images/gov-labor.svg");}
+
+/* Library of Congress (loc) */
+.no-svg .gov-webicon.loc {background: url("images/gov-loc.png");}
+.no-svg .gov-webicon.loc.xsmall {background: url("images/gov-loc-xs.png");}
+.no-svg .gov-webicon.loc.small {background: url("images/gov-loc-s.png");}
+.no-svg .gov-webicon.loc.large {background: url("images/gov-loc-l.png");}
+.no-svg .gov-webicon.loc.xlarge {background: url("images/gov-loc-xl.png");}
+.svg .gov-webicon.loc {background: url("images/gov-loc.svg");}
+
+/* National Aeronautics and Space Administration (nasa) */
+.no-svg .gov-webicon.nasa {background: url("images/gov-nasa.png");}
+.no-svg .gov-webicon.nasa.xsmall {background: url("images/gov-nasa-xs.png");}
+.no-svg .gov-webicon.nasa.small {background: url("images/gov-nasa-s.png");}
+.no-svg .gov-webicon.nasa.large {background: url("images/gov-nasa-l.png");}
+.no-svg .gov-webicon.nasa.xlarge {background: url("images/gov-nasa-xl.png");}
+.svg .gov-webicon.nasa {background: url("images/gov-nasa.svg");}
+
+/* Navy (navy) */
+.no-svg .gov-webicon.navy {background: url("images/gov-navy.png");}
+.no-svg .gov-webicon.navy.xsmall {background: url("images/gov-navy-xs.png");}
+.no-svg .gov-webicon.navy.small {background: url("images/gov-navy-s.png");}
+.no-svg .gov-webicon.navy.large {background: url("images/gov-navy-l.png");}
+.no-svg .gov-webicon.navy.xlarge {background: url("images/gov-navy-xl.png");}
+.svg .gov-webicon.navy {background: url("images/gov-navy.svg");}
+
+/* National Institute of Standards and Technology (nist) */
+.no-svg .gov-webicon.nist {background: url("images/gov-nist.png");}
+.no-svg .gov-webicon.nist.xsmall {background: url("images/gov-nist-xs.png");}
+.no-svg .gov-webicon.nist.small {background: url("images/gov-nist-s.png");}
+.no-svg .gov-webicon.nist.large {background: url("images/gov-nist-l.png");}
+.no-svg .gov-webicon.nist.xlarge {background: url("images/gov-nist-xl.png");}
+.svg .gov-webicon.nist {background: url("images/gov-nist.svg");}
+
+/* National Oceanic and Atmospheric Administration (noaa) */
+.no-svg .gov-webicon.noaa {background: url("images/gov-noaa.png");}
+.no-svg .gov-webicon.noaa.xsmall {background: url("images/gov-noaa-xs.png");}
+.no-svg .gov-webicon.noaa.small {background: url("images/gov-noaa-s.png");}
+.no-svg .gov-webicon.noaa.large {background: url("images/gov-noaa-l.png");}
+.no-svg .gov-webicon.noaa.xlarge {background: url("images/gov-noaa-xl.png");}
+.svg .gov-webicon.noaa {background: url("images/gov-noaa.svg");}
+
+/* Office of Personnel Management (opm) */
+.no-svg .gov-webicon.opm {background: url("images/gov-opm.png");}
+.no-svg .gov-webicon.opm.xsmall {background: url("images/gov-opm-xs.png");}
+.no-svg .gov-webicon.opm.small {background: url("images/gov-opm-s.png");}
+.no-svg .gov-webicon.opm.large {background: url("images/gov-opm-l.png");}
+.no-svg .gov-webicon.opm.xlarge {background: url("images/gov-opm-xl.png");}
+.svg .gov-webicon.opm {background: url("images/gov-opm.svg");}
+
+/* Office of Science and Technology Policy (ostp) */
+.no-svg .gov-webicon.ostp {background: url("images/gov-ostp.png");}
+.no-svg .gov-webicon.ostp.xsmall {background: url("images/gov-ostp-xs.png");}
+.no-svg .gov-webicon.ostp.small {background: url("images/gov-ostp-s.png");}
+.no-svg .gov-webicon.ostp.large {background: url("images/gov-ostp-l.png");}
+.no-svg .gov-webicon.ostp.xlarge {background: url("images/gov-ostp-xl.png");}
+.svg .gov-webicon.ostp {background: url("images/gov-ostp.svg");}
+
+/* Peace Corps (peace-corps) */
+.no-svg .gov-webicon.peace-corps {background: url("images/gov-peace-corps.png");}
+.no-svg .gov-webicon.peace-corps.xsmall {background: url("images/gov-peace-corps-xs.png");}
+.no-svg .gov-webicon.peace-corps.small {background: url("images/gov-peace-corps-s.png");}
+.no-svg .gov-webicon.peace-corps.large {background: url("images/gov-peace-corps-l.png");}
+.no-svg .gov-webicon.peace-corps.xlarge {background: url("images/gov-peace-corps-xl.png");}
+.svg .gov-webicon.peace-corps {background: url("images/gov-peace-corps.svg");}
+
+/* Executive Office of the President (president) */
+.no-svg .gov-webicon.president {background: url("images/gov-president.png");}
+.no-svg .gov-webicon.president.xsmall {background: url("images/gov-president-xs.png");}
+.no-svg .gov-webicon.president.small {background: url("images/gov-president-s.png");}
+.no-svg .gov-webicon.president.large {background: url("images/gov-president-l.png");}
+.no-svg .gov-webicon.president.xlarge {background: url("images/gov-president-xl.png");}
+.svg .gov-webicon.president {background: url("images/gov-president.svg");}
+
+/* Patent and Trademark Office (pto) */
+.no-svg .gov-webicon.pto {background: url("images/gov-pto.png");}
+.no-svg .gov-webicon.pto.xsmall {background: url("images/gov-pto-xs.png");}
+.no-svg .gov-webicon.pto.small {background: url("images/gov-pto-s.png");}
+.no-svg .gov-webicon.pto.large {background: url("images/gov-pto-l.png");}
+.no-svg .gov-webicon.pto.xlarge {background: url("images/gov-pto-xl.png");}
+.svg .gov-webicon.pto {background: url("images/gov-pto.svg");}
+
+/* Small Business Administration (sba) */
+.no-svg .gov-webicon.sba {background: url("images/gov-sba.png");}
+.no-svg .gov-webicon.sba.xsmall {background: url("images/gov-sba-xs.png");}
+.no-svg .gov-webicon.sba.small {background: url("images/gov-sba-s.png");}
+.no-svg .gov-webicon.sba.large {background: url("images/gov-sba-l.png");}
+.no-svg .gov-webicon.sba.xlarge {background: url("images/gov-sba-xl.png");}
+.svg .gov-webicon.sba {background: url("images/gov-sba.svg");}
+
+/* Secret Service (secret-service) */
+.no-svg .gov-webicon.secret-service {background: url("images/gov-secret-service.png");}
+.no-svg .gov-webicon.secret-service.xsmall {background: url("images/gov-secret-service-xs.png");}
+.no-svg .gov-webicon.secret-service.small {background: url("images/gov-secret-service-s.png");}
+.no-svg .gov-webicon.secret-service.large {background: url("images/gov-secret-service-l.png");}
+.no-svg .gov-webicon.secret-service.xlarge {background: url("images/gov-secret-service-xl.png");}
+.svg .gov-webicon.secret-service {background: url("images/gov-secret-service.svg");}
+
+/* Social Security Administration (ssa) */
+.no-svg .gov-webicon.ssa {background: url("images/gov-ssa.png");}
+.no-svg .gov-webicon.ssa.xsmall {background: url("images/gov-ssa-xs.png");}
+.no-svg .gov-webicon.ssa.small {background: url("images/gov-ssa-s.png");}
+.no-svg .gov-webicon.ssa.large {background: url("images/gov-ssa-l.png");}
+.no-svg .gov-webicon.ssa.xlarge {background: url("images/gov-ssa-xl.png");}
+.svg .gov-webicon.ssa {background: url("images/gov-ssa.svg");}
+
+/* State Department (state) */
+.no-svg .gov-webicon.state {background: url("images/gov-state.png");}
+.no-svg .gov-webicon.state.xsmall {background: url("images/gov-state-xs.png");}
+.no-svg .gov-webicon.state.small {background: url("images/gov-state-s.png");}
+.no-svg .gov-webicon.state.large {background: url("images/gov-state-l.png");}
+.no-svg .gov-webicon.state.xlarge {background: url("images/gov-state-xl.png");}
+.svg .gov-webicon.state {background: url("images/gov-state.svg");}
+
+/* U.S. Treasury (treasury) */
+.no-svg .gov-webicon.treasury {background: url("images/gov-treasury.png");}
+.no-svg .gov-webicon.treasury.xsmall {background: url("images/gov-treasury-xs.png");}
+.no-svg .gov-webicon.treasury.small {background: url("images/gov-treasury-s.png");}
+.no-svg .gov-webicon.treasury.large {background: url("images/gov-treasury-l.png");}
+.no-svg .gov-webicon.treasury.xlarge {background: url("images/gov-treasury-xl.png");}
+.svg .gov-webicon.treasury {background: url("images/gov-treasury.svg");}
+
+/* Seal of the United States (usa) */
+.no-svg .gov-webicon.usa {background: url("images/gov-usa.png");}
+.no-svg .gov-webicon.usa.xsmall {background: url("images/gov-usa-xs.png");}
+.no-svg .gov-webicon.usa.small {background: url("images/gov-usa-s.png");}
+.no-svg .gov-webicon.usa.large {background: url("images/gov-usa-l.png");}
+.no-svg .gov-webicon.usa.xlarge {background: url("images/gov-usa-xl.png");}
+.svg .gov-webicon.usa {background: url("images/gov-usa.svg");}
+
+/* United States Agency for International Development (usaid) */
+.no-svg .gov-webicon.usaid {background: url("images/gov-usaid.png");}
+.no-svg .gov-webicon.usaid.xsmall {background: url("images/gov-usaid-xs.png");}
+.no-svg .gov-webicon.usaid.small {background: url("images/gov-usaid-s.png");}
+.no-svg .gov-webicon.usaid.large {background: url("images/gov-usaid-l.png");}
+.no-svg .gov-webicon.usaid.xlarge {background: url("images/gov-usaid-xl.png");}
+.svg .gov-webicon.usaid {background: url("images/gov-usaid.svg");}
+
+/* U.S. Department of Agriculture (usda) */
+.no-svg .gov-webicon.usda {background: url("images/gov-usda.png");}
+.no-svg .gov-webicon.usda.xsmall {background: url("images/gov-usda-xs.png");}
+.no-svg .gov-webicon.usda.small {background: url("images/gov-usda-s.png");}
+.no-svg .gov-webicon.usda.large {background: url("images/gov-usda-l.png");}
+.no-svg .gov-webicon.usda.xlarge {background: url("images/gov-usda-xl.png");}
+.svg .gov-webicon.usda {background: url("images/gov-usda.svg");}
+
+/* Veterns Administration (va) */
+.no-svg .gov-webicon.va {background: url("images/gov-va.png");}
+.no-svg .gov-webicon.va.xsmall {background: url("images/gov-va-xs.png");}
+.no-svg .gov-webicon.va.small {background: url("images/gov-va-s.png");}
+.no-svg .gov-webicon.va.large {background: url("images/gov-va-l.png");}
+.no-svg .gov-webicon.va.xlarge {background: url("images/gov-va-xl.png");}
+.svg .gov-webicon.va {background: url("images/gov-va.svg");}

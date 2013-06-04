@@ -74,7 +74,9 @@ Included Agencies
 * Veterns Administration
 
 
-Fairhead Creative
+Credits
 =================
 
-[Fairhead Creative](http://fairheadcreative.com) is a design agency that creates Websites, Branding and Illustrations for people just like you.
+Created by [Sean Herron](http://seanherron.com)
+
+Based on FC Webicons by [Fairhead Creative](http://fairheadcreative.com).

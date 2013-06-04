@@ -17,17 +17,17 @@ Usage
 2. Use the following code to include a federal agency icon:
 
 ```html
-<a class="gov-webicon nasa" href="#">NASA</a>
+<a class="gov-webicon nasa" href="http://www.nasa.gov">NASA</a>
 ```
 
 You can also add the following classes to change the size of the logo:
 
 ```html
-<a class="gov-webicon nasa xsmall" href="#">NASA</a>
-<a class="gov-webicon nasa small" href="#">NASA</a>
-<a class="gov-webicon nasa" href="#">NASA</a>
-<a class="gov-webicon nasa large" href="#">NASA</a>
-<a class="gov-webicon nasa xlarge" href="#">NASA</a>
+<a class="gov-webicon nasa xsmall" href="http://www.nasa.gov">NASA</a>
+<a class="gov-webicon nasa small" href="http://www.nasa.gov">NASA</a>
+<a class="gov-webicon nasa" href="http://www.nasa.gov">NASA</a>
+<a class="gov-webicon nasa large" href="http://www.nasa.gov">NASA</a>
+<a class="gov-webicon nasa xlarge" href="http://www.nasa.gov">NASA</a>
 ```
 
 Included Agencies
